@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on javascript projects.
 - 📫 Reach me through my email nViji94@gmail.com 
-- ⚡ Fun fact : Gossiping.
+
